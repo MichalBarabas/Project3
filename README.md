@@ -1,8 +1,8 @@
 # Project 3
 Engeto Academy třetí projekt
 
-# Elections Scraper
-Projekt slouží k extrahování výsledku voleb z roku 2017 (např. do csv.). Odkaz
+# Elections Scrape
+Projekt slouží k extrahování výsledku voleb z roku 2017 (např. do csv.). Odkaz Prostějov2017(https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103)
 
 # Instalace knihoven
 pip3 install -r requirements.txt
