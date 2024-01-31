@@ -13,6 +13,7 @@ python scraping.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumn
 # Ukázka
 1.	argument: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103
 2.	argument: data.csv
+   
 python scraping.py "1.argument" "2.argument" python scraping.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "data.csv"
 
 # Výtah 
